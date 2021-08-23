@@ -5,8 +5,16 @@
    "author":"TADD",
    "cover":"https://i.imgur.com/atNUmJt.jpg",
    "chapters":{
-      "35.5":{
-         "title":"Chapter 35.5",
+      "35.1":{
+         "title":"Volume 1: Extras",
+         "volume":"1",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/zSEi8zo/"
+         },
+         "last_updated":"1629682187"
+      },
+      "35.2":{
+         "title":"Chapter 35.2",
          "volume":"1",
          "groups":{
             "ElPsyKongroo":"/proxy/api/imgur/chapter/EAUazf0/"
