@@ -660,6 +660,30 @@
             "ElPsyKongroo":"/proxy/api/imgur/chapter/Of2cvVl/"
          },
          "last_updated":"1671852288"
+      },
+      "98":{
+         "title":"Chapter 98",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/5CKBuDI/"
+         },
+         "last_updated":"1675963441"
+      },
+      "99":{
+         "title":"Chapter 99",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/gyksepn/"
+         },
+         "last_updated":"1675963441"
+      },
+      "100":{
+         "title":"Chapter 100",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/7gbVEqW/"
+         },
+         "last_updated":"1675963441"
       }
    }
 }
