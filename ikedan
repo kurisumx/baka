@@ -710,12 +710,20 @@
          "last_updated":"1676614457"
       },
       "104":{
-         "title":"Chapter 104",
+         "title":"Chapter 104 [END]",
          "volume":"",
          "groups":{
             "ElPsyKongroo":"/proxy/api/imgur/chapter/VfjFgs1/"
          },
          "last_updated":"1676670920"
+      },
+      "105":{
+         "title":"Chapter 105",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/3qVMa40/"
+         },
+         "last_updated":"1677110579"
       }
    }
 }
